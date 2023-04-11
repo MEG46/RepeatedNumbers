@@ -1,0 +1,15 @@
+C:\Users\ESAD\source\repos\SameNumbers\SameNumbers\bin\Debug\net6.0\SameNumbers.exe
+C:\Users\ESAD\source\repos\SameNumbers\SameNumbers\bin\Debug\net6.0\SameNumbers.deps.json
+C:\Users\ESAD\source\repos\SameNumbers\SameNumbers\bin\Debug\net6.0\SameNumbers.runtimeconfig.json
+C:\Users\ESAD\source\repos\SameNumbers\SameNumbers\bin\Debug\net6.0\SameNumbers.dll
+C:\Users\ESAD\source\repos\SameNumbers\SameNumbers\bin\Debug\net6.0\SameNumbers.pdb
+C:\Users\ESAD\source\repos\SameNumbers\SameNumbers\obj\Debug\net6.0\SameNumbers.csproj.AssemblyReference.cache
+C:\Users\ESAD\source\repos\SameNumbers\SameNumbers\obj\Debug\net6.0\SameNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESAD\source\repos\SameNumbers\SameNumbers\obj\Debug\net6.0\SameNumbers.AssemblyInfoInputs.cache
+C:\Users\ESAD\source\repos\SameNumbers\SameNumbers\obj\Debug\net6.0\SameNumbers.AssemblyInfo.cs
+C:\Users\ESAD\source\repos\SameNumbers\SameNumbers\obj\Debug\net6.0\SameNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ESAD\source\repos\SameNumbers\SameNumbers\obj\Debug\net6.0\SameNumbers.dll
+C:\Users\ESAD\source\repos\SameNumbers\SameNumbers\obj\Debug\net6.0\refint\SameNumbers.dll
+C:\Users\ESAD\source\repos\SameNumbers\SameNumbers\obj\Debug\net6.0\SameNumbers.pdb
+C:\Users\ESAD\source\repos\SameNumbers\SameNumbers\obj\Debug\net6.0\SameNumbers.genruntimeconfig.cache
+C:\Users\ESAD\source\repos\SameNumbers\SameNumbers\obj\Debug\net6.0\ref\SameNumbers.dll
